@@ -11058,10 +11058,6 @@ a:focus, a:hover { text-decoration: none; color: #f85759; }
 
 
 
-body{
-    background: #F4F7FD;
-    margin-top:20px;
-}
 
 .card-margin {
     margin-bottom: 1.875rem;
@@ -11080,7 +11076,7 @@ body{
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #ffffff;
+    background-color: #f0fafb;
     background-clip: border-box;
     border: 1px solid #e6e4e9;
     border-radius: 8px;
